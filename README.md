@@ -1,4 +1,4 @@
-Hi! I'm [Anthony Li](https://anli.dev), a developer and student at the University of Pennsylvania ([M&T](https://fisher.wharton.upenn.edu).)
+Hi! I'm [Anthony Li](https://anli.dev), a developer and student at the University of Pennsylvania ([M&T](https://fisher.wharton.upenn.edu)).
 
 A few fun facts about me, because what else is a GitHub README good for:
 * :wave: I go by Anthony, but also **anli** sometimes
