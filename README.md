@@ -6,6 +6,6 @@ A few fun facts about me, because what else is a GitHub README good for:
 * :sushi: Oh, and also sushi
 * :speech_balloon: I speak English (natively), French (not very well), and Mandarin (also not very well)
     * N'hésitez pas à me contacter en français si vous voudriez voir comment mon français est terrible
-* :mobile_phone: I teach an [iOS course](https://www.seas.upenn.edu/~cis1951/25sp/) and make cool stuff for the university at [Penn Labs](https://pennlabs.org)!
+* :iphone: I teach an [iOS course](https://www.seas.upenn.edu/~cis1951/25sp/) and make cool stuff for the university at [Penn Labs](https://pennlabs.org)!
 
 Like this readme? Read my [website](https://anli.dev)!
